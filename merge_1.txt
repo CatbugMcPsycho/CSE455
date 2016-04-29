@@ -1,0 +1,5 @@
+Merge test 1
+this file is to
+show the merge 
+capabilities of
+github
