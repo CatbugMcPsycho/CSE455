@@ -3,3 +3,4 @@ this file is to
 show the merge 
 capabilities of
 github
+Update 1b of merge 1 to test merge
